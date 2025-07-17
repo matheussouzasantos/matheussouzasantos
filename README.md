@@ -1,4 +1,4 @@
-## Olá eu sou o Matheus Souza, estou cursando Análise e Desenvolvimento de Sistemas!
+## Olá me chamo Matheus! Sou dev em formação e estou cursando ADS na PUC-GO
 
 Contate-me no email: matheusxcode@gmail.com
 
