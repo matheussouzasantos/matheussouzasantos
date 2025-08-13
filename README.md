@@ -3,7 +3,7 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e atualmente curso
 Estou sempre em busca de novos aprendizados e desafios para evoluir minhas habilidades em programação.
 
 📧 Entre em contato: contact@matheuscode.com
-📎 LinkedIn: linkedin.com/in/matheussouzasantos08
+📎 LinkedIn: 📎 LinkedIn: [linkedin.com/in/matheussouzasantos08](https://linkedin.com/in/matheussouzasantos08)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
