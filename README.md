@@ -1,12 +1,77 @@
-## Olá, eu sou o Matheus!
-Sou um desenvolvedor em formação, apaixonado por tecnologia e atualmente curso Análise e Desenvolvimento de Sistemas na PUC-GO.
-Estou sempre em busca de novos aprendizados e desafios para evoluir minhas habilidades em programação.
+# 👨‍💻 Matheus Souza
 
-📧 Entre em contato: contact@matheuscode.com
-📎 LinkedIn: [linkedin.com/in/matheussouzasantos08](https://linkedin.com/in/matheussouzasantos08)
+**`Desenvolvedor de Software`**
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  </div>
+Me chamo Matheus Souza Santos, tenho 19 anos e sou natural de Goiás. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC-GO. Sou viciado em tecnologias e compartilho meu conhecimento através do meu LinkedIn "[Matheus Souza Santos](https://www.linkedin.com/in/matheussouzasantos08/)", onde mostro todo o meu desenvolvimento e evolução como programador.
+
+
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Nodejs" 
+    title="Nodejs"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+/>
+
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=matheussouzasantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheussouzasantos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
