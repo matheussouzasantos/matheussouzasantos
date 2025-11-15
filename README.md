@@ -18,7 +18,6 @@ Tenho 19 anos e sou natural de Goiás. Atualmente, estou cursando Análise e Des
 
 
 <br/>
-<br/>
 
 ### 📊 Estatísticas
 
