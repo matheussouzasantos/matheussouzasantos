@@ -5,8 +5,7 @@
 [![Linkedin: matheussouzasantos08](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheussouzasantos0/)](https://www.linkedin.com/in/matheussouzasantos08/)
 [![GitHub matheussouzasantos](https://img.shields.io/github/followers/matheussouzasantos?label=follow&style=social)](https://github.com/matheussouzasantos)
 
-Currently studying Systems Analysis and Development (1st/6th semester) at the Pontifical Catholic University of Goiás, passionate about code, games, innovation, and exploring new technologies.
-
+Atualmente cursando Análise e Desenvolvimento de Sistemas (2º/6º) na Pontifícia Universidade Católica de Goiás, sou apaixonado por programação, jogos, inovação e exploração de novas tecnologias.
 
 
 ---
